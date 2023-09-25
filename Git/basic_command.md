@@ -22,7 +22,7 @@ git config --global user.name <이름>
 ## 코드 수정하고 저장소에 저장하기
 
 - `add`
-    - `git add <파일/폴더 이름>
+    - `git add <파일/폴더 이름>`
     - `working directory`에서 `staging area`로 추가
     - 일반적으로 모든 파일, 폴더를 추가하기 위해 아래의 코드를 사용
         - `git add .`
